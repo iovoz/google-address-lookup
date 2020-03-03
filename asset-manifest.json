@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/google-address-lookup/static/css/main.d1b05096.chunk.css",
+    "main.js": "/google-address-lookup/static/js/main.9b1cebdc.chunk.js",
+    "main.js.map": "/google-address-lookup/static/js/main.9b1cebdc.chunk.js.map",
+    "runtime-main.js": "/google-address-lookup/static/js/runtime-main.aafb6430.js",
+    "runtime-main.js.map": "/google-address-lookup/static/js/runtime-main.aafb6430.js.map",
+    "static/js/2.b1c3c9eb.chunk.js": "/google-address-lookup/static/js/2.b1c3c9eb.chunk.js",
+    "static/js/2.b1c3c9eb.chunk.js.map": "/google-address-lookup/static/js/2.b1c3c9eb.chunk.js.map",
+    "index.html": "/google-address-lookup/index.html",
+    "precache-manifest.19f84946ab668163b77d9b4394d62599.js": "/google-address-lookup/precache-manifest.19f84946ab668163b77d9b4394d62599.js",
+    "service-worker.js": "/google-address-lookup/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/google-address-lookup/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.b1c3c9eb.chunk.js.LICENSE.txt": "/google-address-lookup/static/js/2.b1c3c9eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aafb6430.js",
+    "static/js/2.b1c3c9eb.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.9b1cebdc.chunk.js"
+  ]
+}
