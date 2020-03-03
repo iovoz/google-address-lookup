@@ -1,5 +1,6 @@
 {
-  "name": "google-address",
+  "name": "google-address-lookup",
+  "homepage": "https://iovoz.github.io/google-address-lookup/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
