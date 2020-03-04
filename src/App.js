@@ -8,7 +8,7 @@ import {
   GoogleMap,
   Marker
 } from "react-google-maps";
-
+import dclookup from './utils/dclookup'
 const AddressParser = require("hk-address-parser-lib");
 
 const Container = styled.div`
@@ -51,7 +51,8 @@ function App() {
     });
 
     if (response.data && response.data.SuggestedAddress) {
-      console.log("response.data=", response.data.SuggestedAddress[0]);
+      const geo = response.data.SuggestedAddress[0].Address.PremisesAddress.GeospatialInformation
+      console.log("geo district=",  dclookup.dcNameFromCoordinates(geo.Latitude, geo.Longitude));
     }
   };
 
@@ -61,9 +62,8 @@ function App() {
     records.forEach((item, index) => {
       console.log(
         item,
-        item.coordinate(), 
+        dclookup.dcNameFromCoordinates(item.coordinate().lat, item.coordinate().lng), 
         item.fullAddress(AddressParser.Address.LANG_ZH), 
-        item.transformDistrict(),
         " =============================================== ",
         item.fullAddress(AddressParser.Address.LANG_EN)
       );
