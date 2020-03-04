@@ -52,7 +52,7 @@ function App() {
 
     if (response.data && response.data.SuggestedAddress) {
       const geo = response.data.SuggestedAddress[0].Address.PremisesAddress.GeospatialInformation
-      console.log("geo district=",  dclookup.dcNameFromCoordinates(geo.Latitude, geo.Longitude));
+      console.log("Geo district & sub district=",  dclookup.dcNameFromCoordinates(geo.Latitude, geo.Longitude));
     }
   };
 
@@ -63,6 +63,7 @@ function App() {
       console.log(
         item,
         dclookup.dcNameFromCoordinates(item.coordinate().lat, item.coordinate().lng), 
+        " =============================================== ",
         item.fullAddress(AddressParser.Address.LANG_ZH), 
         " =============================================== ",
         item.fullAddress(AddressParser.Address.LANG_EN)

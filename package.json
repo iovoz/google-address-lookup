@@ -1,6 +1,6 @@
 {
-  "name": "google-address-lookup",
-  "homepage": "https://iovoz.github.io/google-address-lookup/",
+  "name": "hk-places-lookup",
+  "homepage": "https://iovoz.github.io/hk-places-lookup/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
