@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/google-address-lookup/static/css/main.d1b05096.chunk.css",
-    "main.js": "/google-address-lookup/static/js/main.ae915708.chunk.js",
-    "main.js.map": "/google-address-lookup/static/js/main.ae915708.chunk.js.map",
-    "runtime-main.js": "/google-address-lookup/static/js/runtime-main.aafb6430.js",
-    "runtime-main.js.map": "/google-address-lookup/static/js/runtime-main.aafb6430.js.map",
-    "static/js/2.485e36c2.chunk.js": "/google-address-lookup/static/js/2.485e36c2.chunk.js",
-    "static/js/2.485e36c2.chunk.js.map": "/google-address-lookup/static/js/2.485e36c2.chunk.js.map",
-    "index.html": "/google-address-lookup/index.html",
-    "precache-manifest.4c351409e015c6a3f8e49fa778b8412e.js": "/google-address-lookup/precache-manifest.4c351409e015c6a3f8e49fa778b8412e.js",
-    "service-worker.js": "/google-address-lookup/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/google-address-lookup/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.485e36c2.chunk.js.LICENSE.txt": "/google-address-lookup/static/js/2.485e36c2.chunk.js.LICENSE.txt"
+    "main.css": "/hk-places-lookup/static/css/main.d1b05096.chunk.css",
+    "main.js": "/hk-places-lookup/static/js/main.9e3ddcee.chunk.js",
+    "main.js.map": "/hk-places-lookup/static/js/main.9e3ddcee.chunk.js.map",
+    "runtime-main.js": "/hk-places-lookup/static/js/runtime-main.e631038b.js",
+    "runtime-main.js.map": "/hk-places-lookup/static/js/runtime-main.e631038b.js.map",
+    "static/js/2.78b14c88.chunk.js": "/hk-places-lookup/static/js/2.78b14c88.chunk.js",
+    "static/js/2.78b14c88.chunk.js.map": "/hk-places-lookup/static/js/2.78b14c88.chunk.js.map",
+    "index.html": "/hk-places-lookup/index.html",
+    "precache-manifest.1b77612ffab60246209a000dd9172570.js": "/hk-places-lookup/precache-manifest.1b77612ffab60246209a000dd9172570.js",
+    "service-worker.js": "/hk-places-lookup/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/hk-places-lookup/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.78b14c88.chunk.js.LICENSE.txt": "/hk-places-lookup/static/js/2.78b14c88.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.aafb6430.js",
-    "static/js/2.485e36c2.chunk.js",
+    "static/js/runtime-main.e631038b.js",
+    "static/js/2.78b14c88.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.ae915708.chunk.js"
+    "static/js/main.9e3ddcee.chunk.js"
   ]
 }
