@@ -86,15 +86,15 @@
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
-    <div style="width: 100%; display: flex; justify-content: center; margin-top: 30px;">
+    <div style="width: 100%; display: flex; justify-content: center; margin-top: 20px;">
     <input
-          style="width: 90%; height: 40px;"
+          style="width: 90%; height: 40px; border: 1px solid blue;"
           id="autocomplete"
-          placeholder="Enter your address"
+          placeholder="Google Html"
           onFocus={geolocate()}
           type="text"
         />
         </div>
   </body>
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCSEipzniNAZLQoaWFFwOv-ZXU6O1FgJj0&libraries=places&callback=initAutocomplete" no-cors defer></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCSEipzniNAZLQoaWFFwOv-ZXU6O1FgJj0&libraries=places&callback=initAutocomplete" async defer></script>
 </html>
