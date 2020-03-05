@@ -1,17 +1,11 @@
 import * as turf from "@turf/turf"
 import dcdata15 from "./dcdata-2015";
-import dcdata19 from "./dcdata-2019";
 
 const dcSettings = [
   {
     year: '2015',
     polygon: 'polygon',
     data: dcdata15
-  },
-  {
-    year: '2019',
-    polygon: 'multiPolygon',
-    data: dcdata19
   }
 ]
 
