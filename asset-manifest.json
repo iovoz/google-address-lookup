@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/hk-places-lookup/static/css/main.d1b05096.chunk.css",
-    "main.js": "/hk-places-lookup/static/js/main.9e3ddcee.chunk.js",
-    "main.js.map": "/hk-places-lookup/static/js/main.9e3ddcee.chunk.js.map",
+    "main.js": "/hk-places-lookup/static/js/main.ef26e630.chunk.js",
+    "main.js.map": "/hk-places-lookup/static/js/main.ef26e630.chunk.js.map",
     "runtime-main.js": "/hk-places-lookup/static/js/runtime-main.e631038b.js",
     "runtime-main.js.map": "/hk-places-lookup/static/js/runtime-main.e631038b.js.map",
     "static/js/2.78b14c88.chunk.js": "/hk-places-lookup/static/js/2.78b14c88.chunk.js",
     "static/js/2.78b14c88.chunk.js.map": "/hk-places-lookup/static/js/2.78b14c88.chunk.js.map",
     "index.html": "/hk-places-lookup/index.html",
-    "precache-manifest.1b77612ffab60246209a000dd9172570.js": "/hk-places-lookup/precache-manifest.1b77612ffab60246209a000dd9172570.js",
+    "precache-manifest.0f251766054f23a8259e4533e6653e4d.js": "/hk-places-lookup/precache-manifest.0f251766054f23a8259e4533e6653e4d.js",
     "service-worker.js": "/hk-places-lookup/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/hk-places-lookup/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.78b14c88.chunk.js.LICENSE.txt": "/hk-places-lookup/static/js/2.78b14c88.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e631038b.js",
     "static/js/2.78b14c88.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.9e3ddcee.chunk.js"
+    "static/js/main.ef26e630.chunk.js"
   ]
 }

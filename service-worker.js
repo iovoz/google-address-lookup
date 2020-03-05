@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hk-places-lookup/precache-manifest.1b77612ffab60246209a000dd9172570.js"
+  "/hk-places-lookup/precache-manifest.0f251766054f23a8259e4533e6653e4d.js"
 );
 
 self.addEventListener('message', (event) => {
